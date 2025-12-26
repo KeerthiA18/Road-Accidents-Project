@@ -1,2 +1,5 @@
-venv/
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Raw data (large files)
 data/raw/
